@@ -18,15 +18,7 @@ export default class Careers extends Component {
         {/* NAVBAR */}
         <header className="site-navbar mt-3">
           <div className="container-fluid">
-            <div className="row align-items-center">
               <RouterURL />
-              <div className="right-cta-menu text-right d-flex aligin-items-center col-6">
-                <div className="ml-auto">
-                  <a href="contact.html" className="btn btn-primary border-width-2 d-none d-lg-inline-block"><span className="mr-2 icon-paper-plane" />Contact Us</a>
-                </div>
-                <a href="#" className="site-menu-toggle js-menu-toggle d-inline-block d-xl-none mt-lg-2 ml-3"><span className="icon-menu h3 m-0 p-0 mt-2" /></a>
-              </div>
-            </div>
           </div>
         </header>
         {/* HOME */}
@@ -35,8 +27,8 @@ export default class Careers extends Component {
             <div className="row align-items-center justify-content-center">
               <div className="col-md-12">
                 <div className="mb-5 text-center">
-                  <h1 className="text-white font-weight-bold">Job Listings</h1>
-                  <p>Find your dream jobs in our powerful career website template.</p>
+                  <h1 className="text-white font-weight-bold">Job Opportunities</h1>
+                  <p>Find your dream jobs in my Company.</p>
                 </div>
               </div>
             </div>
@@ -55,8 +47,8 @@ export default class Careers extends Component {
                   <a href="job-single.html"><img src="images/featured-listing-1.jpg" alt="Image" className="img-fluid" /></a>
                 </div>
                 <div className="col-md-4">
-                  <span className="badge badge-primary px-2 py-1 mb-3">Freelancer</span>
-                  <h2><a href="job-single.html">Dropbox Product Designer</a> </h2>
+                  <span className="badge badge-primary px-2 py-1 mb-3">Developer</span>
+                  <h2><a href="job-single.html">Game Audio Headset Engineer</a> </h2>
                   <p className="meta">Publisher: <strong>John Stewart</strong> In: <strong>Design</strong></p>
                 </div>
                 <div className="col-md-3 text-left">
@@ -72,8 +64,8 @@ export default class Careers extends Component {
                   <a href="job-single.html"><img src="images/featured-listing-2.jpg" alt="Image" className="img-fluid" /></a>
                 </div>
                 <div className="col-md-4">
-                  <span className="badge badge-warning px-2 py-1 mb-3">Full-time</span>
-                  <h2><a href="job-single.html">Creative Director in Intercom</a> </h2>
+                  <span className="badge badge-warning px-2 py-1 mb-3">Tester</span>
+                  <h2><a href="job-single.html"></a>Automation Tester</h2>
                   <p className="meta">Publisher: <strong>John Stewart</strong> In: <strong>Design</strong></p>
                 </div>
                 <div className="col-md-3 text-left">
@@ -89,8 +81,8 @@ export default class Careers extends Component {
                   <a href="job-single.html"><img src="images/featured-listing-3.jpg" alt="Image" className="img-fluid" /></a>
                 </div>
                 <div className="col-md-4">
-                  <span className="badge badge-success px-2 py-1 mb-3">Part-time</span>
-                  <h2><a href="job-single.html">FullStack Developer in Shopify</a> </h2>
+                  <span className="badge badge-success px-2 py-1 mb-3">Tester</span>
+                  <h2><a href="job-single.html">Performance Tester</a> </h2>
                   <p className="meta">Publisher: <strong>John Stewart</strong> In: <strong>Design</strong></p>
                 </div>
                 <div className="col-md-3 text-left">
@@ -106,8 +98,8 @@ export default class Careers extends Component {
                   <a href="job-single.html"><img src="images/featured-listing-4.jpg" alt="Image" className="img-fluid" /></a>
                 </div>
                 <div className="col-md-4">
-                  <span className="badge badge-primary px-2 py-1 mb-3">Freelancer</span>
-                  <h2><a href="job-single.html">Dropbox Product Designer</a> </h2>
+                  <span className="badge badge-primary px-2 py-1 mb-3">Senior</span>
+                  <h2><a href="job-single.html">Senior .NET Engineers</a> </h2>
                   <p className="meta">Publisher: <strong>John Stewart</strong> In: <strong>Design</strong></p>
                 </div>
                 <div className="col-md-3 text-left">
@@ -140,8 +132,8 @@ export default class Careers extends Component {
                   <a href="job-single.html"><img src="images/featured-listing-4.jpg" alt="Image" className="img-fluid" /></a>
                 </div>
                 <div className="col-md-4">
-                  <span className="badge badge-success px-2 py-1 mb-3">Part-time</span>
-                  <h2><a href="job-single.html">FullStack Developer in Shopify</a> </h2>
+                  <span className="badge badge-success px-2 py-1 mb-3">Senior</span>
+                  <h2><a href="job-single.html">Embedded Engineers</a> </h2>
                   <p className="meta">Publisher: <strong>John Stewart</strong> In: <strong>Design</strong></p>
                 </div>
                 <div className="col-md-3 text-left">
@@ -157,8 +149,8 @@ export default class Careers extends Component {
                   <a href="job-single.html"><img src="images/featured-listing-3.jpg" alt="Image" className="img-fluid" /></a>
                 </div>
                 <div className="col-md-4">
-                  <span className="badge badge-success px-2 py-1 mb-3">Part-time</span>
-                  <h2><a href="job-single.html">FullStack Developer in Shopify</a> </h2>
+                  <span className="badge badge-success px-2 py-1 mb-3">Designer</span>
+                  <h2><a href="job-single.html">Graphic Designer</a> </h2>
                   <p className="meta">Publisher: <strong>John Stewart</strong> In: <strong>Design</strong></p>
                 </div>
                 <div className="col-md-3 text-left">
